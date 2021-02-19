@@ -8,12 +8,12 @@
   
   
 2 - Rode o comando na pasta raiz do projeto:  
-  ```npm```  
+  - ```npm```  
   
-  * Este comando pasta raiz para baixar os pacotes node_modules  
+  Nota: Este comando pasta raiz para baixar os pacotes node_modules  
   
   
 3 - Rode o commando na pasta raiz do projeto:  
-  ```npm run start```
+  - ```npm run start```
   
-  * Este comando irá iniciar o react e abrir-lo no navegador  
+  Nota: Este comando irá iniciar o react e abrir-lo no navegador  
